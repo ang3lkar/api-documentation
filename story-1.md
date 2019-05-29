@@ -4,7 +4,7 @@
 
 Possibly show some command examples there and show "hey Workable" as a conversation starter.
 
-
+-----
 - Hey Workable
   
 _System wakes up, bell sound is heard_
@@ -32,3 +32,5 @@ _System shows job board logos_
 - Yes
 
 _Show success screen_
+
+-----
