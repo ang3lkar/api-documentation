@@ -27,7 +27,7 @@ _System fills the missing fields_
 
 _System shows job board logos_
 
-- **The job is ready, do you want to post it now
+- **The job is ready, do you want to post it now?**
 
 - Yes
 
