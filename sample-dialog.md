@@ -16,4 +16,13 @@
 - `Workable has automatically sourced 53 candidates. These are recommended profiles based on job details.`
 - **(show card that 54 profiles were sourced based on job details)**
 - `May I help you with something else?`
-- Nope.
+- Today's tasks.
+- `You have 2 events today`
+- **(show card with 2 events)**
+- Next
+- `You have one new message`
+- **(show card with message)**
+- Call him
+- `May I help you with something else?`
+- Goodbye
+- `See you in Boston`
