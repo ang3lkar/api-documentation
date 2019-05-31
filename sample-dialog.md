@@ -2,7 +2,7 @@
 
 - Hey Workable.
 - `Hello Theodore`
-- I want to find a project manager job in Athens.
+- I want to find a project manager in Athens.
 - `Based on the title and the location, I filled the job description automatically from a collection of templates. Do you also want to add the usual company benefits?`
 - Yes please.
 - **(show card that job was created)**
