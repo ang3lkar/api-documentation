@@ -3,7 +3,7 @@
 - Hey Workable.
 - `Hello Theodore`
 - I want to find a project manager job in Athens.
-- `I will add the best description. Do you want to add the usual company benefits?`
+- `Based on the title and the location, I filled the job description automatically from a collection of templates. Do you also want to add the usual company benefits?`
 - Yes please.
 - **(show card that job was created)**
 - `Within your budget limits, you can also post this to 2 premium boards, Linkedin and Indeed. Do you want me to proceed with that?`
