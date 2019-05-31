@@ -14,6 +14,6 @@
 - `Sending referral requests.`
 - **(show card that referrals requests were sent to team)**
 - `Workable has automatically sourced 53 candidates. These are recommended profiles based on job details.`
-- **s(how card that 54 profiles were sourced based on job details)**
+- **(show card that 54 profiles were sourced based on job details)**
 - `May I help you with something else?`
 - Nope.
