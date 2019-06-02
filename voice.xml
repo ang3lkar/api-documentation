@@ -1,0 +1,4 @@
+<Response>
+<Say voice="alice">Thanks for the email. We will hire you</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
